@@ -1,2 +1,5 @@
 # AntiAFK-Roblox
-Simple script to prevent you from being kicked from a roblox server. 
+Simulates the WASD Keys in order to trick the game into thinking you're not IDLE or AFK. 
+
+# Steps
+1. 
